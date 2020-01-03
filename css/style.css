@@ -1,0 +1,71 @@
+
+    nav{background-color:rgb(77, 91, 184);}
+    
+    nav .nav-wrapper {border-top: 7px solid rgb(33, 16, 78);}
+    
+    body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+    
+    main {
+    flex: 1 0 auto;
+    }
+    
+    .page-footer{
+    background-color:rgb(77, 91, 184) ;}
+    
+    
+    .footer-copyright{
+    background-color:rgb(33, 16, 78) !important;}
+    
+    .mi_logo {
+    width: 59px;
+    }
+    
+    .imagen_perfil{
+    width: 250px;
+    border-radius: 50%;
+    }
+    .nombre{
+    color: white;
+    margin-top: 10%
+    }
+    .parallax_custom_color{
+    background:rgb(27, 45, 83);
+    }
+    .imagen_parallax{
+    opacity: 0.8!important;
+    }
+    .elementos_centrados{
+    text-align: center;
+    }
+    .imagen_conoceme{
+    width: 240px;
+    background-color: blue 5px;
+    }
+
+ .top_banda{
+    width: 435px
+    
+ }
+ .logo_perris{
+    width: 240px}
+
+    .fa-whatsapp-square{
+       color: rgb(0, 0, 0);
+       font-size: 80px;
+    }
+    .fa-twitter{
+       color: rgb(0, 0, 0);
+       font-size: 80px;
+    }
+    .fa-facebook-square{
+       color: rgb(0, 0, 0);
+       font-size: 80px;
+    }
+    .fa-instagram{
+color: rgb(0, 0, 0);
+font-size: 80px;
+    }
